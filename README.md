@@ -1,6 +1,6 @@
 # Chatbot Deployment with Flask and JavaScript
 
-```
+
 Install dependencies
 ```
 $ (venv) pip install Flask torch torchvision nltk
